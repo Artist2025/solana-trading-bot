@@ -35,7 +35,6 @@ ts-node src/index.ts
 
 ## TELEGRAM BOT DATA PROVIDED BY CLIENT
 
-You can use this token to access HTTP API:
-6851487770:AAH0F3uYaj1_2buoPJt3KKckwSk-UomOgi0
+You can use this token to access HTTP API
 
 For a description of the Bot API, see this page: https://core.telegram.org/bots/api
